@@ -1,0 +1,7 @@
+*.ppm
+*.o
+*.sh
+*.txt
+rle.h
+file_interact*
+help.c
